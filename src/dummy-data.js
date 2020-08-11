@@ -8,6 +8,11 @@ const dummyData = [
         timestamp: "July 17th 2017, 12:42:40 pm",
         comments: [
             {
+                id: 21,
+                username: "chrisjcorbin",
+                text: "My laptop died!",
+            },
+            {
                 id: 22,
                 username: "philzcoffee",
                 text: "We've got more than just coffees!",
@@ -32,6 +37,11 @@ const dummyData = [
         likes: 4307,
         timestamp: "July 15th 2017, 03:12:09 pm",
         comments: [
+            {
+                id: 35,
+                username: "chrisjcorbin",
+                text: "My laptop is pretty angry...",
+            },
             {
                 id: 36,
                 username: "twitch",
